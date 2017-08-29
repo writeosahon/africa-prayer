@@ -24,6 +24,8 @@
 
 <preference  name="AutoHideSplashScreen" value="true"/>
 <preference  name="SplashShowOnlyFirstTime" value="false"/>
+<preference name="FadeSplashScreen" value="false"/>
+<!-- <preference name="FadeSplashScreenDuration" value="750"/> -->
 <preference  name="SplashScreenDelay" value="3000"/>
 
 <platform  name="android">
